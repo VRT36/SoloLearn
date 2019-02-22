@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SoloLearn
+namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, world!");
+        Console.ReadLine();
+    }
     }
 }
