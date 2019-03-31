@@ -1,0 +1,27 @@
+/* 
+*Project     : Local Storage VRT
+*Done By     : VRT
+*Date        : 31/03/2019
+*Time        : 11:09
+*/
+
+
+.color{
+    background-color:violet;
+}
+/* TS#1554010709 */
+.btn{}
+.btn-swap-black-1{border: none;font-family:verdana;background-color:green;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius:5px;background-color: #000000;border: 2px solid violet;color: violet;}
+.btn-swap-black-1:hover{background-color: violet;border: 2px solid black;color: #000000;}
+.btn-swap-black-2{border: none;font-family:verdana;background-color:green;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius:5px;background-color: #000000;border: 2px solid #9300ff;color: #9300ff;}
+.btn-swap-black-2:hover{background-color: #9300ff;border: 2px solid #000000;color: #000000;} 
+.btn-swap-black-3{border: none;font-family:verdana;background-color:green;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius:5px;background-color: #000000;border: 2px solid blue;color: blue;}
+.btn-swap-black-3:hover{background-color: blue;border: 2px solid #000000;color: #000000;}
+.btn-swap-black-4{border: none;font-family:verdana;background-color:green;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius:5px;background-color: #000000;border: 2px solid lime;color: lime;}
+.btn-swap-black-4:hover{background-color: lime;border: 2px solid black;color: black;} 
+.btn-swap-black-5{border: none;font-family:verdana;background-color:green;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius:5px;background-color: #000000;border: 2px solid yellow;color: yellow;}
+.btn-swap-black-5:hover{background-color: yellow;border: 2px solid #000000;color: #000000;} 
+.btn-swap-black-6{border: none;font-family:verdana;background-color:green;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius:5px;background-color: #000000;border: 2px solid orange;color: orange;}
+.btn-swap-black-6:hover{background-color: orange;border: 2px solid #000000;color: #000000;} 
+.btn-swap-black-7{border: none;font-family:verdana;background-color:green;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;border-radius:5px;background-color: #000000;border: 2px solid red;color: #ff0000;}
+.btn-swap-black-7:hover{background-color: #ff0000;border: 2px solid #000000;color: #000000;}
