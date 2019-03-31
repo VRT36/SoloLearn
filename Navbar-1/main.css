@@ -1,0 +1,54 @@
+body{
+    background-color:black;
+}
+
+
+.navbar { 
+   overflow: hidden; 
+   background-color: grey;
+   padding: 14px,16px; 
+   border-radius: 30px; 
+} 
+
+.navbar a { 
+   float: left; 
+   color: black; 
+   font-family: Helvetica, Arial, sans-serif; 
+   text-align: center; 
+   padding: 12px; 
+   text-decoration: none; 
+   font-size: 19px; 
+   line-height: 30px; 
+   border-radius: 5px; 
+} 
+
+.navbar a:hover { 
+   background-color: green; 
+   color: cyan; 
+} 
+
+.navbar a.active { 
+   background-color: dodgerblue; 
+   color: #fff; 
+}
+
+.vrt{
+    font-family:monospace;
+    color:#0000FF;
+    font-size:40px;
+}
+
+.content{
+    color:blue;
+    padding-top:200px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size:30px;
+}
+
+.content a{
+    color:yellow;
+}
+
+content a:hover{
+    color:green;
+}
