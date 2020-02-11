@@ -90,15 +90,3 @@ function get(){
       set();
   }
 }
-
-function check() {
-  
-  var idk = localStorage.getItem("color");
-  if (idk !="" && idk == null) {
-    get();
-  } else {
-       set();
-  }
-}
-
- 
