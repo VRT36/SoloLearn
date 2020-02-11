@@ -18,7 +18,7 @@ function set(){
 // TS#1554010709
 
 function get(){
-  alert("This code will not work on Mobile Phones.Use PC instead.Rerun the code to see the effect. :)")
+  alert("This code will not work on SL mobile app.Use PC instead.Rerun the code to see the effect. :)")
   var cco = localStorage.getItem("color");
   if (cco == "violet"){
       var co = "indigo";
